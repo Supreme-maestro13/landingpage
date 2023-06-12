@@ -1,0 +1,61 @@
+<div class="kanu" >
+       <div class="navbar" >
+  
+  
+            <div id="logo">
+                <a href="#" style="padding: 10px;"><img style="width: 10px;" src="./img/logo-white_1_17.png" alt=""></a>
+            </div> 
+  
+            <nav class="ji">
+               <ul>
+                    <li><a href="#HOME">Home</a></li>
+                    <li><a href="#ABOUT">About us</a></li>
+                    <li><a href="#PROJECTS">Projects</a></li>
+                    <li><a href="#PRODUCTS">Services</a></li>    
+                    <li><a href="#CONTACT">Pricing</a></li>
+                    <li><a href="#">Shop</a></li>
+  
+               </ul>
+  
+            </nav>
+  
+  
+  
+  
+          
+   
+  
+       </div>
+
+       rgb(222,222,221)
+
+       background: rgb(25,19,19); rgb(19,20,21)
+
+
+
+       yellow; rgb(248,196,0)
+
+       greyish purple; rgb(205,215,235)
+
+
+
+
+
+     </section>
+   
+     <section class="lolo">
+       <div class = "header1">
+   
+      <h1>
+   
+       OUR PRODUCTS
+      </h1>
+   
+   
+       </div>
+     <div class = "WOODWORKING">WOODWORKING & JOINERY</div>
+     <div class = "PRECAST">PRECAST CONCRETE</div>
+   <div class = "WELDING">WELDING & FABRICATION</div>
+     </section>
+   
+   

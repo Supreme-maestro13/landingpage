@@ -1,0 +1,261 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Crimson Text', serif;
+}
+
+
+
+nav a{
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: 20;
+    margin-left: 09px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(103,96,79);
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    padding-right: 50px;
+    
+}
+
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+.jojo{
+    height: 85vh;
+    background-image: url(./img/jamii.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation: slider 20s infinite linear;
+
+}
+
+@keyframes slider {
+    0%{  background-image: url(./img/jamii.jpg);}
+    35%{ background-image: url(./img/bbs-eastleigh-3_84.jpg);}
+    75%{ background-image: url(./img/2020-03-16_5e6ef08b49c3c_building-construction-sunset_80.jpg);}
+
+    
+}
+
+
+
+.ji{
+    justify-content: center;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    
+    
+    display: flex;
+    
+    /* This is used to make the navbar sticky, So that the
+        navbar stays at the top part even if we scroll */
+    position: sticky;
+    align-items: center;
+    
+    top: 0px;
+    background-color: black;
+    background-position: center;
+    padding: 0px 60px;
+
+    
+
+}
+
+.header { 
+        padding: 30px;
+        text-align: center;
+        font-family:'Serif';
+        background:whitesmoke;
+        color: black;
+        font-size: 25px;
+}
+
+
+.Section2 {
+
+    float: right;
+}
+
+
+.header1 {
+  text-align: center;
+  height:12vh;
+
+}
+
+.WOODWORKING {
+    text-align: center;
+}
+
+
+.WELDING {
+    float: right;
+}
+
+.lolo{
+    height: 100vh;
+    background-color: rgb(254,252,255);
+
+}
+.nono{
+    height: 45vh;
+
+    color:rgb(103,96,79);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.nono h2{
+    font-size: 40px;
+
+    font-weight: 300;
+}
+
+.nono h3{
+    font-style: italic;
+}
+
+.nono p{
+    font-size: 20px;
+}
+
+.nono a{
+    border: 1px solid rgb(103,96,79) ;
+
+    margin: 40px 270px;
+    font-size: 20px;
+    padding: 10px 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nono a:hover{
+    background-color:rgb(103,96,79) ;
+    color: white;
+    
+}
+
+.chrolo{
+    height: 10vh;
+     display: flex;
+    justify-content: center;
+}
+
+.chrolo h1{
+    padding-top: 20px;
+
+    font-size: 40px;
+     
+}
+
+.chrollo{
+    height: 10vh;
+     display: flex;
+    justify-content: center;
+}
+
+.chrollo h1{
+    padding-top: 20px;
+
+    font-size: 40px;
+
+    letter-spacing: 0.5px;
+     
+}
+
+
+.products{
+    height: 22vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0px 100px;
+}
+
+.products img{
+    width: 400px; height: 150px;
+}
+
+
+.projects{
+    height: 50vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0px 100px;
+}
+
+.projects img{
+    width: 600px; height: 350px;
+}
+
+.projects h1{
+    padding-left: 70px;
+}
+
+.footer{
+    height: 30vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 100px;
+
+
+}
+
+.footer div iframe{
+    height: 30vh;
+}
+
+.footer ul li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+a:hover{ color: rgb(198,162,64);}
+
+
